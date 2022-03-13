@@ -1,0 +1,27 @@
+.items{
+    margin-left:40px;
+    width:300px;
+    height:50px;
+    background-color: gray;
+    color: #fff;
+    border-radius:5px;
+}
+.items p{
+    padding: 10px;
+    position: relative;
+}
+.items p span{
+    position: absolute;
+    cursor: pointer;
+    right: 10px;
+}
+.faicons{
+    margin:0 5px;
+    font-size: 15px;
+}
+.list{
+    background-color: transparent;
+    outline: 0;
+    border: none;
+    color:#fff;
+}
